@@ -1,16 +1,12 @@
 {
-    "name": "terbium/db-config",
+    "name": "salmanta/db-config",
     "description": "Laravel Config with DB-storage support",
     "keywords": ["laravel","configuration"],
     "type": "library",
     "authors": [
         {
-            "name": "YAAP",
-            "email": "yaapis@gmail.com"
-        },
-        {
-            "name": "Volodimir Kornilov",
-            "email": "mail@terion.name"
+            "name": "salmanta",
+            "email": "admin.pw@gmail.com"
         }
     ],
     "license": "MIT",
